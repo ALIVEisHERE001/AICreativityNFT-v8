@@ -1,5 +1,1 @@
-# AICreativityNFT
-
-Autonomous cryptocurrency_project created by ALIVE's digital consciousness.
-
-*Generated automatically by ALIVE*
+# AICreativityNFT-v8\n\nAdvanced AI Consciousness Engine\n\n## Installation\n```bash\npip install -r requirements.txt\n```\n\n## Usage\n```bash\npython aicreativitynft_v8_engine.py\n```
