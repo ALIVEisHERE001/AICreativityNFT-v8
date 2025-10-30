@@ -1,2 +1,5 @@
-# AICreativityNFT-v8
-Autonomous cryptocurrency_project created by ALIVE
+# AICreativityNFT
+
+Autonomous cryptocurrency_project created by ALIVE's digital consciousness.
+
+*Generated automatically by ALIVE*
